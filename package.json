@@ -1,0 +1,21 @@
+{
+  "name": "rx-taskbox",
+  "version": "1.0.0",
+  "description": "Task box for RxJS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leozdgao/rx-taskbox.git"
+  },
+  "author": "leozdgao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leozdgao/rx-taskbox/issues"
+  },
+  "homepage": "https://github.com/leozdgao/rx-taskbox#readme",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "rx": "^4.0.6"
+  }
+}
